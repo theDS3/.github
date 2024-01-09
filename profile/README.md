@@ -25,5 +25,8 @@ DS3 hosts all types of events that is data science related that focuses on the s
 - LinkedIn: https://www.linkedin.com/company/the-data-science-statistics-society/mycompany/
 - Website: https://ds3utsc.com/
 
+## 📜Code of Conduct📜
+We strive to maintain an inclusive and welcoming environment. Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand our community guidelines.
+
 ## ⚖️License⚖️
-All content within this organization/repository is licensed under the [MIT License](LICENSE).
+All content within this organization/repository is licensed under the [MIT License](https://github.com/theDS3/.github/blob/main/LICENSE).
